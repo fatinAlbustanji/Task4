@@ -5,4 +5,4 @@ This repository is about convert text to speech and speech to text using Python 
 
 2- Save the output text from (speech to text) as .txt file.
 
-2- Save the output speech from (textto speech) as .mp3 file.
+2- Save the output speech from (text to speech) as .mp3 file.
